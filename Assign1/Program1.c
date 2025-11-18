@@ -1,4 +1,6 @@
+//Jai Ganesha
+
 #include<stdio.h>
 int main(){
-    printf("Hello Wolrd");
+    printf("Jai Ganesh");
 }
